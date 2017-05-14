@@ -2,34 +2,34 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="20985" started-at="2017-05-14T04:03:23Z" finished-at="2017-05-14T04:03:44Z">
+  <suite name="Suite" duration-ms="24846" started-at="2017-05-14T07:06:23Z" finished-at="2017-05-14T07:06:48Z">
     <groups>
     </groups>
-    <test name="System Test" duration-ms="20985" started-at="2017-05-14T04:03:23Z" finished-at="2017-05-14T04:03:44Z">
+    <test name="SmokeTest" duration-ms="24846" started-at="2017-05-14T07:06:23Z" finished-at="2017-05-14T07:06:48Z">
       <class name="testCases.VerifyHomepage">
-        <test-method status="PASS" signature="Openbrowser()[pri:0, instance:testCases.VerifyHomepage@a2431d0]" name="Openbrowser" is-config="true" duration-ms="5386" started-at="2017-05-14T09:33:23Z" finished-at="2017-05-14T09:33:29Z">
+        <test-method status="PASS" signature="Openbrowser()[pri:0, instance:testCases.VerifyHomepage@247d8ae]" name="Openbrowser" is-config="true" duration-ms="8308" started-at="2017-05-14T12:36:23Z" finished-at="2017-05-14T12:36:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Openbrowser -->
-        <test-method status="PASS" signature="Homepage()[pri:0, instance:testCases.VerifyHomepage@a2431d0]" name="Homepage" duration-ms="171" started-at="2017-05-14T09:33:29Z" finished-at="2017-05-14T09:33:29Z">
+        <test-method status="PASS" signature="Homepage()[pri:0, instance:testCases.VerifyHomepage@247d8ae]" name="Homepage" duration-ms="107" started-at="2017-05-14T12:36:31Z" finished-at="2017-05-14T12:36:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Homepage -->
       </class> <!-- testCases.VerifyHomepage -->
       <class name="testCases.VerifyLoginPage">
-        <test-method status="PASS" signature="Openbrowser()[pri:0, instance:testCases.VerifyLoginPage@1cbb87f3]" name="Openbrowser" is-config="true" duration-ms="3310" started-at="2017-05-14T09:33:29Z" finished-at="2017-05-14T09:33:32Z">
+        <test-method status="PASS" signature="Openbrowser()[pri:0, instance:testCases.VerifyLoginPage@48974e45]" name="Openbrowser" is-config="true" duration-ms="5998" started-at="2017-05-14T12:36:31Z" finished-at="2017-05-14T12:36:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Openbrowser -->
-        <test-method status="PASS" signature="Loginpage()[pri:0, instance:testCases.VerifyLoginPage@1cbb87f3]" name="Loginpage" duration-ms="12006" started-at="2017-05-14T09:33:32Z" finished-at="2017-05-14T09:33:44Z">
+        <test-method status="PASS" signature="Loginpage()[pri:0, instance:testCases.VerifyLoginPage@48974e45]" name="Loginpage" duration-ms="10369" started-at="2017-05-14T12:36:37Z" finished-at="2017-05-14T12:36:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Loginpage -->
-        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testCases.VerifyLoginPage@1cbb87f3]" name="closebrowser" is-config="true" duration-ms="63" started-at="2017-05-14T09:33:44Z" finished-at="2017-05-14T09:33:44Z">
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testCases.VerifyLoginPage@48974e45]" name="closebrowser" is-config="true" duration-ms="45" started-at="2017-05-14T12:36:48Z" finished-at="2017-05-14T12:36:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrowser -->
       </class> <!-- testCases.VerifyLoginPage -->
-    </test> <!-- System Test -->
+    </test> <!-- SmokeTest -->
   </suite> <!-- Suite -->
 </testng-results>
